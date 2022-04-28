@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "puppeteer": "^13.5.1"
+  },
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "InvestimentosDAO.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
